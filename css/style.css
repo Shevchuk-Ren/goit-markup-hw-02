@@ -76,6 +76,7 @@ body {
   color: var(--accent-color);
 }
 .contacts .contact-item {
+  font-style: normal;
   color: currentColor;
 }
 .contacts .link:hover,
@@ -91,6 +92,7 @@ body {
   line-height: 1.4;
   text-align: center;
   letter-spacing: 0.06em;
+  text-transform: uppercase;
 }
 /* buttons*/
 .button {
